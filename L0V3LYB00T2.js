@@ -6,6 +6,9 @@ This can run on a VPS, you would need knowledge on how to run JS Executables on 
 This executable uses Eris, a discord library for javascript. It is more suitable for user accounts, than Discord.JS in recent updates.
 
 Coded Specifically for JFIVE, if this project releases, then oh well. I might just fuck around and obfuscate the fuck out of this then.
+> Then releases the project for the public because why the fuck not :shrug:
+> Enjoy! My contact information is above and below if you need assistance.
+> https://discord.gg/suYCGUGCsd <
 
 */
 
