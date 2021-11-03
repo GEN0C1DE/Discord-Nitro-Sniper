@@ -1,6 +1,6 @@
 /* 
 
-This shit was coded by Genocide. / genocide#0896 / geno1337 on github.
+This shit was coded by Genocide. / genocide#0896 / GEN0C1DE on github.
 Simple Nitro Sniper that will run when your computer is fucking on and not idled or off.
 This can run on a VPS, you would need knowledge on how to run JS Executables on a Linux Server simple.
 This executable uses Eris, a discord library for javascript. It is more suitable for user accounts, than Discord.JS in recent updates.
